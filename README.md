@@ -40,10 +40,11 @@
 - broadcast_forward_message()	Рассылка сообщений по message_id
 
 🧾 Структура данных
+
 Таблица users
-Поле	Тип
-user_id	INTEGER (PRIMARY)
-phone_number	TEXT
+
+- user_id	INTEGER (PRIMARY)
+- phone_number	TEXT
 
 Таблица records (персональные события)
 
